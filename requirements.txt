@@ -1,0 +1,5 @@
+discord
+pytz
+requests
+asyncio
+math
